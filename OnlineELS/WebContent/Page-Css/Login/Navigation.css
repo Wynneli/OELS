@@ -1,0 +1,16 @@
+.header{max-height:100%;min-width:1300px;height:150px;background-image:url(.././Images/header.png);background-color:#E0FFFF;}
+.navigation{
+	width:60%;
+	margin-left:15%;
+}
+.inline{display:inline;float:left;}
+.login_ul_style{padding-top:10px;}
+.login_li_style{display:inline;padding:12px 20px;}
+.searchdiv{margin:30px 20%;}
+.nav-color{background-color:#F0FFFF	;}
+.setting{max-height:100%;min-width:1300px;}
+.inline .login_ul_style .login_li_style a{color:bule;font-size:16px;}
+.inline .login_ul_style .login_li_style a:hover{color:red;font-size:10px;}
+.navigation ul li a{font-size:20px;}
+
+.main{width:85%;margin:0 auto;}
